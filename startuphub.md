@@ -11,7 +11,7 @@ Hello! All my startup resources and bookmarks here!
 - [101 Essential Online Business Tools](https://www.ryrob.com/side-business-resources/)
 
 ## Lean Methodology
-![Combine Design Thinking, Lean Startup and Agile](lean-startup-01.png "Combine Design Thinking, Lean Startup and Agile")
+![Combine Design Thinking, Lean Startup and Agile](images/lean-startup-01.png "Combine Design Thinking, Lean Startup and Agile")
 
 ## Fundraising - What VCs look for before they invest?
 - VCs want you to demonstrate that there’s a big market for what you’re selling, and big bucks being spent in that market
