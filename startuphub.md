@@ -78,6 +78,9 @@ Hello! All my startup resources and bookmarks here!
 ## Excel Tools and Links
 - https://exinfm.com/free_spreadsheets.html - Amazing list of free Excel spreadsheets
 
+## Google Apps Settings
+- [Catch-all for Gmail](https://blog.macaulaygidado.com/do-you-know-how-to-configure-catch-all-routing-on-g-suite-80d6327b9058)
+
 ## Marketing Tools and Resources
 - [Intro to Branding and Brand Mgmt](https://www.slideshare.net/momarmorsi/intro-to-branding-brand-management-elkottab)
 
