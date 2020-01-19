@@ -40,6 +40,7 @@ Hello! All my startup resources and bookmarks here!
 - https://www.pexels.com/ - Free Stock photos
 - https://www.checklist.design/ - A collection of the best UX and UI practices
 - [Adobe Colour](https://color.adobe.com/create) - a great site for discovering colours that work!
+- [UX Templates](https://www.userexperience.guide/ux-collections/ux-templates/)
 
 ## Developer Resources and Tools
 - https://getbootstrap.com/ - Bootstrap Website
@@ -81,8 +82,14 @@ Hello! All my startup resources and bookmarks here!
 ## Google Apps Settings
 - [Catch-all for Gmail](https://blog.macaulaygidado.com/do-you-know-how-to-configure-catch-all-routing-on-g-suite-80d6327b9058)
 
+## Google Analytics / Tag Manager Settings
+- [Use Google Tag Manager to maintain Google Analytics](https://www.freecodecamp.org/news/how-to-use-google-tag-manager-to-maintain-google-analytics-and-other-marketing-tags/)
+- [GTM Container Collection](https://www.bounteous.com/insights/?category=resources/google-recipes/google-tag-manager&secondary_category=All)
+- [GTM Plugin Collection](https://online-metrics.com/google-tag-manager-extensions/)
+
 ## Marketing Tools and Resources
 - [Intro to Branding and Brand Mgmt](https://www.slideshare.net/momarmorsi/intro-to-branding-brand-management-elkottab)
+- [Flying Saucer Agency Resources](https://hello.flyingsaucer.nyc/flying-saucer-studio-resources)
 
 ## SEO Tools
 - https://github.com/marcobiedermann/search-engine-optimization - Comprehensive list of SEO tools
