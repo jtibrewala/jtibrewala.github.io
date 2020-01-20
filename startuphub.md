@@ -7,6 +7,9 @@ permalink: /startuphub/
 Hello! All my startup resources and bookmarks here!
 
 
+## Apple Macbook Resources
+- [macOS Setup Guide](https://sourabhbajaj.com/mac-setup/) - great intro level guide for your new mac
+
 ## Startup Mega Resource Lists
 - [101 Essential Online Business Tools](https://www.ryrob.com/side-business-resources/)
 
