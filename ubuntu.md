@@ -19,6 +19,7 @@ Hello! All my ubuntu resources here!
 - [zsh-completions](https://github.com/zsh-users/zsh-completions)
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 - [history-substring](https://github.com/zsh-users/zsh-history-substring-search)
+- [Black-Void-Zsh](https://github.com/black7375/BlaCk-Void-Zsh) - my current zshell config
 
 2. Disable IPv6
 - Add to the end of `/etc/sysctl.conf`

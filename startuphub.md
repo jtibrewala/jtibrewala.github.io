@@ -21,6 +21,8 @@ Hello! All my startup resources and bookmarks here!
 - VCs want you to be able to back up whatever you tell them with metrics and solid evidence.
 - VCs want you to be able to explain how you are going to use their money.
 
+## CTO Resources
+- [Cookbook for Mobile Apps](https://www.slideshare.net/mrjain/startup-engineering-cookbook-for-mobile-apps)
 
 ## Chrome Plugins
 - https://github.com/igrigorik/videospeed - HTML5 video speed controller : increase vidoe speeds on YT, Netflix, etc
