@@ -6,7 +6,7 @@
 POWERLEVEL9K_CUSTOM_RUBY="echo -n '\ue21e' Ruby"
 POWERLEVEL9K_CUSTOM_RUBY_FOREGROUND="black"
 POWERLEVEL9K_CUSTOM_RUBY_BACKGROUND="red"
-#POWERLEVEL9K_MODE='nerdfont-complete'
+POWERLEVEL9K_MODE='nerdfont-complete'
 #POWERLEVEL9K_MODE='awesome-patched'
 #POWERLEVEL9K_TIME_FORMAT="%D{%H:%M \uE868  %d.%m.%y}"
 POWERLEVEL9K_NVM_BACKGROUND="black"
@@ -48,7 +48,8 @@ fi
 #P9KGT_FONTS='nerdfont-complete'
 #POWERLEVEL9K_MODE='awesome-patched'
 #POWERLEVEL9K_MODE='awesome-fontconfig'
-P9KGT_FONTS='awesome-fontconfig'
+#P9KGT_FONTS='awesome-fontconfig'
+P9KGT_FONTS='nerdfont-fontconfig'
 if [[ $P9KGT_FONTS != 'default' ]] && [[ $P9KGT_FONTS != 'awesome-fontconfig' ]] && [[ $P9KGT_FONTS != 'awesome-mapped-fontconfig' ]] &&
     [[ $P9KGT_FONTS != 'awesome-patched' ]] && [[ $P9KGT_FONTS != 'nerdfont-complete' ]] && [[ $P9KGT_FONTS != 'nerdfont-fontconfig' ]]
 then
