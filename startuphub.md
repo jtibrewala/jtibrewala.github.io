@@ -53,8 +53,9 @@ Hello! All my startup resources and bookmarks here!
 - https://cssgradientbutton.com/ - Button creator with CSS and gradient
 - https://materializecss.com/ - Material design based frontend framework
 - https://facebook.github.io/react-native/docs/getting-started.html - React Native Website
-- http://validator.w3.org/ - Markup validation service
-- https://regex101.com/ - Online Regex Checker tool
+- [HTML Markup Validation](http://validator.w3.org/) - Markup validation service
+- [Regex Checker](https://regex101.com/) - Online Regex Checker tool
+- [MyDevice Viewport](https://www.mydevice.io/) - Determine the viewport size of your device
 
 ## Developer - Python Resources
 - https://stxnext.com/blog/2019/06/17/top-10-blogs-python/ - List of Top 10 Python blogs
