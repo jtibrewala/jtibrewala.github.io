@@ -7,8 +7,9 @@ permalink: /techhub/
 Hello! All my startup TECH resources and bookmarks here!
 
 
-## Apple Macbook Resources
+## Laptop Setup Resources
 - [macOS Setup Guide](https://sourabhbajaj.com/mac-setup/) - great intro level guide for your new mac
+- [My Linux Setup](_posts/2020-02-25-My-Ubuntu-Linux-Setup.md) - My ubuntu linux setup environment
 
 ## CTO Resources
 - [Cookbook for Mobile Apps](https://www.slideshare.net/mrjain/startup-engineering-cookbook-for-mobile-apps)
@@ -41,7 +42,6 @@ Hello! All my startup TECH resources and bookmarks here!
 - https://www.browserstack.com/ - for app and browser testing
 - https://www.lambdatest.com/
 
-
 ## DevOps Resources and Tools
 - https://intodns.com/ - check DNS and mail servers
 - https://www.dareboost.com/en - website speed test and analysis
@@ -49,6 +49,7 @@ Hello! All my startup TECH resources and bookmarks here!
 - https://website.grader.com/ - website grader
 - https://ipv6-test.com/ - IPv6 testing site
 - https://tools.geekflare.com/toolbox - site testing tools
+- 
 
 ## Google Apps Settings
 - [Catch-all for Gmail](https://blog.macaulaygidado.com/do-you-know-how-to-configure-catch-all-routing-on-g-suite-80d6327b9058)
