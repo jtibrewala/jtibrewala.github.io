@@ -14,3 +14,13 @@ Uses ocrmypdf to rewrite the file with ocr."
     local in="$1"
     ocrmypdf --deskew --output-type pdfa --force-ocr $1 "${in:r}_rw.pdf"
 }
+
+# starts one or multiple args as programs in background
+background() {
+  for ((i=2;i<=$#;i++)); do
+    ${@[1]} ${@[$i]} &> /dev/null &
+  done
+}
+# alias -s html='background chromium'
+# alias -s {pdf,PDF}='background mupdf'
+# alias -s {mp4,MP4,mov,MOV}='background vlc'
