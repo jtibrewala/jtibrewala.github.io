@@ -11,7 +11,7 @@ source ${HOME}/.fonts/*.sh
 ZSH_THEME="powerlevel9k/powerlevel9k"
 source $ZSH/custom/p9kgt.zsh
 source $ZSH/custom/aliases.zsh
-source $ZSH/custom/plugins/functions.zsh
+#source $ZSH/custom/plugins/functions.zsh
 #source $ZSH/custom/themes/powerlevel10k/powerlevel10k.zsh-theme
 #ZSH_THEME="powerlevel10k/powerlevel10k"
 
