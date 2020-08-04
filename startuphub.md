@@ -30,6 +30,7 @@ Hello! All my startup resources and bookmarks here!
 
 ## Business Templates
 - https://www.hubspot.com/business-templates/ - 45 professional templates from Hubspot
+- [Legal templates from LetsVenture](https://letsventure.com/downloads/open-source) - FREE legal templates
 
 ## Design Resources and Tools
 - https://www.evernote.design - AIO bookmarks for designers!!!

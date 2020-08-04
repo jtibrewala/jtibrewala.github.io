@@ -11,6 +11,14 @@ Hello! All my startup TECH resources and bookmarks here!
 - [macOS Setup Guide](https://sourabhbajaj.com/mac-setup/) - great intro level guide for your new mac
 - [My Linux Setup](_posts/2020-02-25-My-Ubuntu-Linux-Setup.md) - My ubuntu linux setup environment
 
+## Chrome Plugins for Developers
+- [JavaScript and CSS Code Beautifier](https://chrome.google.com/webstore/detail/javascript-and-css-code-b/iiglodndmmefofehaibmaignglbpdald?hl=en)
+- [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en%20)
+- [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/emliamioobfffbgcfdchabfibonehkme)
+- [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=en-US)
+- [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en)
+- [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en)
+
 ## CTO Resources
 - [Cookbook for Mobile Apps](https://www.slideshare.net/mrjain/startup-engineering-cookbook-for-mobile-apps)
 
